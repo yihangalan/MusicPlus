@@ -1,0 +1,38 @@
+.song{
+    height: 500px;
+    width: 500px;
+    border-radius: 45px;
+    border:3px solid rgb(0 0 0 / 15%);
+    overflow: scroll;
+}
+.comment{
+    height: 500px;
+    border:3px solid rgb(0 0 0 / 15%);
+    width: 500px;
+    border-radius: 45px;
+
+}
+
+.card {
+    float: right;
+}
+
+.input{
+    width: 100%;
+    border-radius: 25px;
+}
+
+.submit_button{
+    display: flex;
+    justify-content: center;
+}
+
+.commentButton{
+    background-color: #f6f4f4;
+    border-radius: 20px;
+    border-color: white;
+    width: 280px;
+}
+/*.commentButton :hover{*/
+/*    background-color: #570505;*/
+/*}*/
